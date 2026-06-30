@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! This is a modern, responsive web application built with React and Vite.
 
-**🔗 [View Live Portfolio](https://ayushverma1238.github.io/Portfolio)**
+**🔗 [View Live Portfolio](https://portfolio-4vox.vercel.app/)**
 
 ---
 
